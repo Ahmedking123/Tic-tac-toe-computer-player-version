@@ -1,0 +1,16 @@
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\bin\Debug\Tic Tac Toe Computer Verson.exe.config
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\bin\Debug\Tic Tac Toe Computer Verson.exe
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\bin\Debug\Tic Tac Toe Computer Verson.pdb
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\MainWindow.g.cs
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\App.g.cs
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson_MarkupCompile.cache
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson_MarkupCompile.lref
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\App.baml
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\MainWindow.baml
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson.g.resources
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic_Tac_Toe_Computer_Verson.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson.exe
+C:\Users\ahmed\source\repos\Tic Tac Toe Computer Verson\Tic Tac Toe Computer Verson\obj\Debug\Tic Tac Toe Computer Verson.pdb
